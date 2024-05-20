@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaas&label=Profile%20views&color=0e75b6&style=flat" alt="ijaas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaas2003&label=Profile%20views&color=0e75b6&style=flat" alt="ijaas" /> </p>
 - 🔭 I’m currently working on **Creating Chating Application**
 
 - 🌱 I’m currently learning **Flutter**
