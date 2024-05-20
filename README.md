@@ -12,7 +12,7 @@
 - 📫 How to reach me **ijaasahamad2003@gmail.com**
 
 - ⚡ Fun fact **React Enthusiastic**
-<h1>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</h1>
+<link>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</link>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ijaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ijaas" height="30" width="40" /></a>
