@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Creating Chating Application**
 
 - 🌱 I’m currently learning **Flutter**
