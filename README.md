@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ijaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ijaas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ijaas ahamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijaas ahamad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ijaas-ahamad-m-43b899219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijaas ahamad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mafiaop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mafiaop" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ijaasahamed37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ijaasahamad" height="30" width="40" /></a>
 </p>
