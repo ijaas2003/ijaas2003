@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full Stack Development, Generative AI**
 
-- 📫 How to reach me **ijaasahamad2003@gmail.com**
+- 📫 How to reach me **ijaasSDE@gmail.com**
 
 - ⚡ Fun fact **React Enthusiastic**
 <h3 align="left">Connect with me:</h3>
