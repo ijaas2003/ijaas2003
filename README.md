@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A Software Engineer in ZOHO
-<span align="left">
+<span align="center">
   <img  src="https://www.interlooptechnologies.com/wp-content/uploads/2021/04/zoho-512.png" alt="zoho"/>
 </span>
 </h3>
