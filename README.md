@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **To Build Scalable System**
 
-- 👯 I’m looking to collaborate on **Backend Development preferable(Spring Boot)**
+- 👯 I’m Love to collaborate on **Backend Development preferable(Spring Boot, Kafka, Redis, K8s, Docker, DBs)**
 
 - 💬 Ask me about **Full Stack Development, Generative AI**
 
