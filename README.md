@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
-<h3 align="center">A Software Engineer in ZOHO </h3>
-<p align="left">
+<h3 align="center">A Software Engineer in ZOHO
+<span align="left">
   <img  src="https://www.interlooptechnologies.com/wp-content/uploads/2021/04/zoho-512.png" alt="zoho"/>
-</p>
+</span>
+</h3>
+
 <!-- - 🔭 I’m currently working on **Creating Chating Application** -->
 
 - 🌱 I’m currently learning **Flutter**
