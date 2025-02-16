@@ -7,13 +7,13 @@
 
 <!-- - 🔭 I’m currently working on **Creating Chating Application** -->
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **To Build Scalable System**
 
-- 👯 I’m looking to collaborate on **Backend Development preferable(expressjs)**
+- 👯 I’m looking to collaborate on **Backend Development preferable(Spring Boot)**
 
 - 💬 Ask me about **Full Stack Development, Generative AI**
 
-- 📫 How to reach me **ijaasSDE@gmail.com**
+- 📫 How to reach me **ijaassde@gmail.com**
 
 - ⚡ Fun fact **React Enthusiastic**
 <h3 align="left">Connect with me:</h3>
