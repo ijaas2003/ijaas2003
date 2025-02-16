@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A Software Engineer in ZOHO </h3>
-<p align="left"> <img src="https://www.google.com/imgres?q=zoho%20logo%20without%20background&imgurl=https%3A%2F%2Ficon2.cleanpng.com%2F20180802%2Flfj%2F71e2d96b6fcba2d4732c9d29cb8aac5d.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-zoho-office-suite-logo-zoho-corporation-google-doc-5968132%2F&docid=AEC2zgvyXKTg2M&tbnid=UCsy5L6EBOvZoM&vet=12ahUKEwje4OallciLAxUGbmwGHT6PBvUQM3oECBoQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwje4OallciLAxUGbmwGHT6PBvUQM3oECBoQAA" alt="ijaas" /> </p>
+<p align="left"> <img src="[https://www.google.com/imgres?q=zoho%20logo%20without%20background&imgurl=https%3A%2F%2Ficon2.cleanpng.com%2F20180802%2Flfj%2F71e2d96b6fcba2d4732c9d29cb8aac5d.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-zoho-office-suite-logo-zoho-corporation-google-doc-5968132%2F&docid=AEC2zgvyXKTg2M&tbnid=UCsy5L6EBOvZoM&vet=12ahUKEwje4OallciLAxUGbmwGHT6PBvUQM3oECBoQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwje4OallciLAxUGbmwGHT6PBvUQM3oECBoQAA]" alt="ijaas" /> </p>
 <!-- - 🔭 I’m currently working on **Creating Chating Application** -->
 
 - 🌱 I’m currently learning **Flutter**
