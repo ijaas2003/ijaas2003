@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A Software Engineer in ZOHO
 <span align="center">
-  <img height="15px" width="20px" src="https://www.interlooptechnologies.com/wp-content/uploads/2021/04/zoho-512.png" alt="zoho"/>
+  <img height="40px" width="50px" src="https://www.interlooptechnologies.com/wp-content/uploads/2021/04/zoho-512.png" alt="zoho"/>
 </span>
 </h3>
 
