@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ijaas</h1>
 <h3 align="center">A Software Engineer in ZOHO </h3>
 <p align="left">
-  ![Zoho Logo](https://upload.wikimedia.org/wikipedia/commons/5/5c/Zoho-logo.png)
+  <img  src="https://www.interlooptechnologies.com/wp-content/uploads/2021/04/zoho-512.png" alt="zoho"/>
 </p>
 <!-- - 🔭 I’m currently working on **Creating Chating Application** -->
 
